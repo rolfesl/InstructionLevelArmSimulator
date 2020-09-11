@@ -2,8 +2,8 @@
 /*                                                             */
 /*   ARMv8-32 Instruction Level Simulator                      */
 /*                                                             */
-/*   ECEN 4243                                                 */
-/*   Oklahoma State University                                 */
+/*                                                             */
+/*                                                             */
 /*                                                             */
 /***************************************************************/
 
