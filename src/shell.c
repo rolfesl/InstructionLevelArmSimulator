@@ -2,15 +2,12 @@
 /*                                                             */
 /*   ARMv4-32 Instruction Level Simulator                      */
 /*                                                             */
-/*   ECEN 4243                                                 */
-/*   Oklahoma State University                                 */
+/*                                                             */
+/*                                                             */
 /*                                                             */
 /***************************************************************/
 
-/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-/*          DO NOT MODIFY THIS FILE!                            */
-/*          You should only change sim.c!                       */
-/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
 
 #include <assert.h>
 #include <stdio.h>
