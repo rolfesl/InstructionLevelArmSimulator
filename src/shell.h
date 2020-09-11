@@ -2,15 +2,11 @@
 /*                                                             */
 /*   ARMv8-32 Instruction Level Simulator                      */
 /*                                                             */
-/*   ECEN 4243                                                 */
-/*   Oklahoma State University                                 */
+/*                                                             */
+/*                                                             */
 /*                                                             */
 /***************************************************************/
 
-/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-/*          DO NOT MODIFY THIS FILE!                            */
-/*          You should only change sim.c!                       */
-/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 
 #ifndef _SIM_SHELL_H_
 #define _SIM_SHELL_H_
