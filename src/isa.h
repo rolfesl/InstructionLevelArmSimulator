@@ -2,8 +2,8 @@
 /*                                                             */
 /*   ARMv4-32 Instruction Level Simulator                      */
 /*                                                             */
-/*   ECEN 4243                                                 */
-/*   Oklahoma State University                                 */
+/*                                                             */
+/*                                                             */
 /*                                                             */
 /***************************************************************/
 
@@ -1009,7 +1009,7 @@ int LDRB (int Rd, int Rn, int Imm12, int Funct) {
   return 0;
 }
 
-//try this if there is time
+//
 int MUL(char* i_){
 	return 0;}
 int MLA(char* i_){
